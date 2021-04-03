@@ -6,5 +6,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Pleamake sure to update tests as appropriate.
 
 <h1>Author </h1>
-Website - <a href = https://infallible-pike-a0b433.netlify.app/>Portfolio</a>
-LinkedIn - <a href = www.linkedin.com/in/salihu-abdulhamid-7bab04183>Abdulhamid</a>
+<ul>
+<li>Website - <a href = https://infallible-pike-a0b433.netlify.app/>Portfolio</a></li>
+<li>LinkedIn - <a href = www.linkedin.com/in/salihu-abdulhamid-7bab04183>Abdulhamid</a></li>
